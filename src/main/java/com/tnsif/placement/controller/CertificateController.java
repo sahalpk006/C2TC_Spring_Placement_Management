@@ -22,3 +22,4 @@ public class CertificateController {
         return certificateService.getCertificateById(id);
     }
 }
+//
